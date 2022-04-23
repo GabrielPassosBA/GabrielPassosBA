@@ -1,4 +1,4 @@
-### Hello Word 👋
+### Hello World 👋
 
 
 🔭 Hoje estou trabalhando com Ciência de dados e Machine learning
